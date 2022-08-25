@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: ConsoleApp7, Configuration: Debug Any CPU ------
+1>ConsoleApp7 -> C:\Users\THIS PC\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
